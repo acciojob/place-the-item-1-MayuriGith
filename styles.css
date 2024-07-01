@@ -4,6 +4,7 @@
 	display:flex;
 	justify-content:space-between;
 	padding:5px;
+	flex-wrap:wrap;
 }
 .item-1{
 	height:100px;
